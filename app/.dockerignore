@@ -1,0 +1,6 @@
+__pycache__
+.venv
+sample_stt.py
+sound_cap.py
+passphrase*.txt
+# best_model.h5
